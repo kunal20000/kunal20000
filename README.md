@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal20000&label=Profile%20views&color=0e75b6&style=flat" alt="kunal20000" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kunalsapate2524" target="blank"><img src="https://img.shields.io/twitter/follow/kunalsapate2524?logo=twitter&style=for-the-badge" alt="kunalsapate2524" /></a> </p>
 
 - 🌱 I’m currently learning **React,Javascript**
 
@@ -28,8 +28,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ kunal-sapate-357a97221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ kunal-sapate-357a97221" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/profile/" height="30" width="40" /></a>
+<a href="https://twitter.com/kunalsapate2524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunalsapate2524" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kunal-sapate-357a97221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal-sapate-357a97221" height="30" width="40" /></a>
+<a href="https://instagram.com/___kunal___ks___07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___kunal___ks___07" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kunalsapate2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kunalsapate2000" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
