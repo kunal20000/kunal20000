@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **kunalsapate2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"><a herf="https://mail.google.com/mail/u/0/#all" target="_blank">
 
 
 
